@@ -5,7 +5,12 @@
 @import "minima";
 
 body{
-    background-image: url('public/images/tree.gif');
+    background-image:
+	linear-gradient(
+          rgba(0, 0, 0, 0.2), 
+          rgba(0, 0, 0, 0.2)
+        ),
+     	url('../public/images/tree.gif');
     background-size: cover;
     
     height: 100vh;
