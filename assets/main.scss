@@ -28,7 +28,8 @@ body{
 }
 
 .site-header,a {
-	color:white
+	color:white;
+	text-decoration:underline;
 }
 
 footer{
@@ -40,3 +41,17 @@ a:hover {
 	font-weight:bold;
 	color:white;
 	}
+
+a.site-title{
+	color:white;
+}
+
+a.site-title:hover{
+	color:white;
+	font-weight:bold;
+}
+
+a:visited{
+	color:white;
+}
+
