@@ -5,5 +5,10 @@
 @import "minima";
 
 body{
-  	background-color: blue;
+    background-image: url('public/images/tree.gif');
+    background-size: cover;
+    
+    height: 100vh;
+    padding:0;
+    margin:0;
 }
