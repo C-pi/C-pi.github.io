@@ -10,7 +10,7 @@ body{
           rgba(0, 0, 0, 0.2), 
           rgba(0, 0, 0, 0.2)
         ),
-     	url('public/images/tree.gif');
+     	url('public/images/tree-rev-loop.gif');
     background-size: cover;
     
     height: 100vh;
@@ -21,3 +21,22 @@ body{
 *{
 	color: white;
 }
+
+.site-header{
+	background:black;
+	color: white;
+}
+
+.site-header,a {
+	color:white
+}
+
+footer{
+	background:black;
+	color:white;
+}
+
+a:hover {
+	font-weight:bold;
+	color:white;
+	}
