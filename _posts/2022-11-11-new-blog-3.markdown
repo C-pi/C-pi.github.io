@@ -1,0 +1,9 @@
+--- 
+layout: post 
+title: new blog 3  
+date:  2022-11-11 13:30:26.989785 
+categories: simple blog post 
+--- 
+
+lets gooooo
+lets get coffee
